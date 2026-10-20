@@ -1,0 +1,17 @@
+# Personal activity, credentials, and browser saves must never be published.
+*.csv
+*.json
+*.html
+*.htm
+*.har
+*.log
+.env
+.env.*
+private/
+exports/
+session*
+cookies*
+__pycache__/
+*.py[cod]
+.venv/
+.DS_Store
